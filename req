@@ -1,0 +1,11 @@
+earthengine_api==1.0.0
+ee==0.2
+folium==0.17.0
+geopy==2.4.1
+pandas==1.5.3
+Pillow==10.4.0
+plotly==5.24.1
+Requests==2.32.3
+streamlit==1.35.0
+streamlit==1.32.0
+streamlit_folium==0.22.0
